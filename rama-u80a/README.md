@@ -15,7 +15,7 @@ These macros are used along with [BetterTouchTool](https://folivora.ai/) to perf
 | M6       | `{KC_LCTL,KC_LALT,KC_P}`            | Take a screenshot                                         |
 | M7       | `{KC_LALT,KC_LGUI,KC_8}`            | OSX Zoom (Enable in Accessibility settings)               |
 | M8       | `{KC_LALT,KC_LGUI,KC_MINS}`         | Decrease zoom                                             |
-| M8       | `{KC_LALT,KC_LGUI,KC_EQL}`          | Increase zoom                                             |
+| M9       | `{KC_LALT,KC_LGUI,KC_EQL}`          | Increase zoom                                             |
 
 
 #### Layer 0
