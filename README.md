@@ -19,7 +19,7 @@ Log of some of my keyboard builds and backups of their QMK/VIA keyboard layouts.
 
 
 
-## RAMAWORKS u80a
+## RAMAWORKS U80-A
 | Part        | Description                                      | Notes                                                          |
 |-------------|--------------------------------------------------|----------------------------------------------------------------|
 | Case        | RAMAWORKS U80-A                                  | MOON STEALTH                                                   |
