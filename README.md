@@ -8,10 +8,6 @@ Log of some of my keyboard builds and backups of their QMK/VIA keyboard layouts.
 ---
 
 ## QwertyKeys Neo Ergo
-![alt text](images/neo_ergo.jpg)
-
-### Build
-
 | Part        | Description                         | Notes                                                        |
 |-------------|-------------------------------------|--------------------------------------------------------------|
 | Case        | Neo Ergo                            | Retro White                                                  |
@@ -19,13 +15,11 @@ Log of some of my keyboard builds and backups of their QMK/VIA keyboard layouts.
 | Keycaps     | GMK Beta JS                         | GMK Froyo Spacebar Kit, GMK Dualshot Macros Kit              |
 | Artisans    | -                                   | -                                                            |
 
+![alt text](images/neo_ergo.jpg)
+
 
 
 ## RAMAWORKS u80a
-![alt text](images/u80a.jpg)
-
-### Build
-
 | Part        | Description                                      | Notes                                                          |
 |-------------|--------------------------------------------------|----------------------------------------------------------------|
 | Case        | RAMAWORKS U80-A                                  | MOON STEALTH                                                   |
@@ -33,16 +27,15 @@ Log of some of my keyboard builds and backups of their QMK/VIA keyboard layouts.
 | Keycaps     | GMK Oblivion Git                                 | -                                                              |
 | Artisans    | Keyforge Shishi, Mulder V3, Orochi (Blue Diesel) | -                                                              |
 
+![alt text](images/u80a.jpg)
 
 
 ## CannonKeys Satisfaction 75
-![alt text](images/s75.jpg)
-
-### Build
-
 | Part        | Description                                                                      | Notes                                                          |
 |-------------|----------------------------------------------------------------------------------|----------------------------------------------------------------|
-| Case        | RAMAWORKS U80-A                                                                  | Stormy Grey                                                    |
+| Case        | CannonKeys Satisfaction 75                                                       | Stormy Grey                                                    |
 | Switches    | Tealios V2                                                                       | Tribosys 3204 (stems), Sprit 72g springs, TX switch films      |
 | Keycaps     | MOD Keyboards Classic Black PBT                                                  | -                                                              |
 | Artisans    | RAMA PVD Brass Knob, GTB Crux Caps (Boulder Series), Keyforge Shishi (Apostasy)  | -                                                              |
+
+![alt text](images/s75.jpg)
