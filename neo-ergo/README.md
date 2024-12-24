@@ -17,7 +17,7 @@ These macros are used along with [BetterTouchTool](https://folivora.ai/) to perf
 | M8       | `{KC_LALT,KC_LGUI,KC_MINS}`         | Decrease zoom                                             |
 | M9       | `{KC_LALT,KC_LGUI,KC_EQL}`          | Increase zoom                                             |
 | M10      | `{KC_LCTL}{KC_LGUI}{KC_LSFT}4`      | Take a screenshot (OSX)                                   |
-| M11      | `{+KC_LGUI}S`                       | Take a screenshot (Windows)                               |
+| M11      | `{KC_LGUI,KC_LSFT,KC_S}`                       | Take a screenshot (Windows)                               |
 
 #### Layer 0
 ![alt text](images/neo_ergo_layer0.png)
