@@ -3,9 +3,20 @@
 Log of some of my keyboard builds and backups of their QMK/VIA keyboard layouts. 
 
 - [VIA](https://usevia.app/) 
+- [VIAL](https://vial.rocks/)
 - [QMK](https://github.com/qmk/qmk_firmware/blob/master/docs/newbs_flashing.md)
 
 ---
+
+## JackyDesign Hippo TKL
+| Part        | Description                         | Notes                                                        |
+|-------------|-------------------------------------|--------------------------------------------------------------|
+| Case        | Hippo TKL                           | Polycarbonate                                                |
+| Switches    | Gateron Type R                      | Stock                                                        |
+| Keycaps     | GMK Beta JS                         | GMK Jamon R2                                                 |
+| Artisans    | -                                   | -                                                            |
+
+![alt text](images/neo_ergo.jpg)
 
 ## QwertyKeys Neo Ergo
 | Part        | Description                         | Notes                                                        |
