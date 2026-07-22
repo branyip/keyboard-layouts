@@ -14,7 +14,7 @@ Log of some of my keyboard builds and backups of their QMK/VIA keyboard layouts.
 | -------- | -------------- | ------------- |
 | Case     | Hippo TKL      | Polycarbonate |
 | Switches | Gateron Type R | Stock         |
-| Keycaps  | GMK Beta JS    | GMK Jamon R2  |
+| Keycaps  | GMK Jamon R2   |               |
 | Artisans | -              | -             |
 
 ![alt text](images/hippo.jpg)
